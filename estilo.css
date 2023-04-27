@@ -1,0 +1,61 @@
+
+		body{
+			background-color: #404040;
+			color: white;
+		}
+		fieldset{
+			text-align: center;
+		}
+		textarea{
+			font-size: 20px;
+			height: 55px;
+			width: 195px;
+		}
+		#cadastrar{
+			cursor: pointer;
+		}
+		#Pesquisar{
+			cursor: pointer;
+		}
+		a{
+			text-decoration: none;
+		}
+
+		#Pesq_palavra, #palavra{
+			color: white;
+			background-color: #404040;
+			border-radius: 9px;
+			border: 3px solid orange;
+			padding-left: 5px;
+		}
+		
+		#btnPesquisar{
+			border-radius: 9px;
+			border: 3px solid red;
+			padding-left: 5px;
+			color:white;
+		}
+
+		 #significado{
+			color: white;
+			background-color: #404040;
+			border-radius: 9px;
+			border: 3px solid orange;
+		}
+
+		#cadastrar{
+			color: white;
+			background-color: #404040;
+			border-radius: 9px;
+			border: 3px solid orange;
+		}
+
+		#cadastrar:hover{
+			font-weight: bold;
+			background-color: orange;
+		}
+
+		fieldset{
+			margin-bottom: 20px;
+			border-color: coral;
+		}
